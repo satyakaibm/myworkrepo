@@ -1,0 +1,3 @@
+Host *
+HostKeyAlgorithms ssh-rsa,ssh-dss
+PubkeyAcceptedKeyTypes ssh-rsa,ssh-dss
